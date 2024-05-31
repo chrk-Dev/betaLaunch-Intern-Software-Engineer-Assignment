@@ -16,9 +16,9 @@ Ensure you have the following installed on your machine:
     
     Copy code
     ```bash
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo 
- ``
+    git clone https://github.com/chrk-Dev/betaLaunch-Intern-Software-Engineer-Assignment.git
+    cd betaLaunch-Intern-Software-Engineer-Assignment 
+    ```
  
 2.  **Install dependencies:**
     
