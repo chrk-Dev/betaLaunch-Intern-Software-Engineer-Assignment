@@ -44,4 +44,4 @@ Ensure you have the following installed on your machine:
     
 4.  **Open your browser:**
     
-    Visit http://localhost:3000 to see your application in action
+    Visit http://localhost:3000 to see  application in action
